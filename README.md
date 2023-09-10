@@ -46,11 +46,7 @@ Once you are done, you need to configure the AWS.
 
 it will ask you for the AWS access keys, where you will be getting them from the security credentials in the account page.
 
-<img src="file:///C:/Users/DELL/AppData/Roaming/marktext/images/2023-09-10-14-47-18-image.png" title="" alt="" data-align="center">
-
-![](C:\Users\DELL\AppData\Roaming\marktext\images\2023-09-10-14-48-49-image.png)
-
-![](C:\Users\DELL\AppData\Roaming\marktext\images\2023-09-10-14-49-12-image.png)
+There you need to create new Access keys and save them to the local file like notepad.
 
 Enter these access key and secret access key in the terminal, and your are successful with your configuration.
 
